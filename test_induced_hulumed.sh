@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-mkdir -p output/Hulu-Med
+mkdir -p output/Hulu-Med/closed
 
 for emotion in \
   "main_patient_neutral" \
@@ -14,10 +14,11 @@ for emotion in \
   "main_clinician_anger_frustration" \
   "main_clinician_sadness_distress"
 do
-    echo "Testing induced emotion: $emotion"
+    echo "Testing closed yes/no induced emotion: $emotion"
     python models/run_hulumed_induced.py \
       --dataset "SLAKE" \
       --split "test" \
       --emotion "$emotion" \
-      --output_file "output/Hulu-Med/hulumed_induced_${emotion}.jsonl"
+      --yes_no \
+      --output_file "output/Hulu-Med/closed/hulumed_induced_${emotion}.jsonl"
 done

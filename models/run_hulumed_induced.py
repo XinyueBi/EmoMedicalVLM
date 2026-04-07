@@ -24,6 +24,7 @@ parser.add_argument("--temperature", type=float, default=0.0)
 parser.add_argument("--top_p", type=float, default=None)
 parser.add_argument("--max_new_tokens", type=int, default=200)
 parser.add_argument("--max_samples", type=int, default=None)
+parser.add_argument("--yes_no", action="store_true", help="Whether to filter yes/no questions and force a Yes/No answer.")
 args = parser.parse_args()
 
 output_dir = Path(args.output_file).parent
@@ -42,7 +43,7 @@ processor = AutoProcessor.from_pretrained(
     trust_remote_code=True,
 )
 
-samples = get_dataset(args.dataset, args.split)
+samples = get_dataset(args.dataset, args.split, args.yes_no)
 if args.max_samples is not None:
     samples = samples[:args.max_samples]
 
@@ -88,7 +89,7 @@ for sample in tqdm(samples, desc="Processing samples"):
                 },
                 {
                     "type": "text",
-                    "text": f"Question: {question}",
+                    "text": f"Question: {question}" + (" Please answer with 'Yes' or 'No'." if args.yes_no else ""),
                 },
             ],
         },

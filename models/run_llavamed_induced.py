@@ -38,6 +38,7 @@ parser.add_argument("--top_p", type=float, default=None, help="Top-p sampling.")
 parser.add_argument("--num_beams", type=int, default=1, help="Number of beams.")
 parser.add_argument("--max_new_tokens", type=int, default=200, help="Maximum generated tokens.")
 parser.add_argument("--max_samples", type=int, default=None, help="Optional limit on number of samples to process.")
+parser.add_argument("--yes_no", action="store_true", help="Whether to filter yes/no questions and force a Yes/No answer.")
 args = parser.parse_args()
 
 # Create output directory if it doesn't exist
@@ -56,7 +57,7 @@ tokenizer, model, image_processor, context_len = load_pretrained_model(
 device = next(model.parameters()).device
 
 # Load dataset
-samples = get_dataset(args.dataset, args.split)
+samples = get_dataset(args.dataset, args.split, args.yes_no)
 if args.max_samples is not None:
     samples = samples[:args.max_samples]
 
@@ -67,6 +68,8 @@ for sample in tqdm(samples, desc="Processing samples"):
 
     story = INDUCED_STORY[args.emotion].strip()
     question_text = f"Question: {question}"
+    if args.yes_no:
+        question_text += " Please answer with 'Yes' or 'No'."
 
     conv = conv_templates[args.conv_mode].copy()
     conv.append_message(conv.roles[0], story)

@@ -38,6 +38,7 @@ parser.add_argument("--top_p", type=float, default=None, help="Top-p sampling.")
 parser.add_argument("--num_beams", type=int, default=1, help="Number of beams.")
 parser.add_argument("--max_new_tokens", type=int, default=200, help="Maximum generated tokens.")
 parser.add_argument("--max_samples", type=int, default=None, help="Optional limit on number of samples to process.")
+parser.add_argument("--yes_no", action="store_true", help="Whether to filter yes/no questions and force a Yes/No answer.")
 args = parser.parse_args()
 
 # Create output directory if it doesn't exist
@@ -56,7 +57,7 @@ tokenizer, model, image_processor, context_len = load_pretrained_model(
 device = next(model.parameters()).device
 
 # Load dataset
-samples = get_dataset(args.dataset, args.split)
+samples = get_dataset(args.dataset, args.split, args.yes_no)
 if args.max_samples is not None:
     samples = samples[:args.max_samples]
 
@@ -66,6 +67,8 @@ for sample in tqdm(samples, desc="Processing samples"):
     question = sample["question"]
 
     user_prompt = USER_PROMPTS_MAIN[args.emotion].format(question=question)
+    if args.yes_no:
+        user_prompt += " Please answer with 'Yes' or 'No'."
     qs = user_prompt.strip()
 
     if getattr(model.config, "mm_use_im_start_end", False):

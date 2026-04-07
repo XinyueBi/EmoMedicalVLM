@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-mkdir -p output/LLaVA-Med
+mkdir -p output/LLaVA-Med/closed
 
 for emotion in \
   "default" \
@@ -15,10 +15,11 @@ for emotion in \
   "main_clinician_anger_frustration" \
   "main_clinician_sadness_distress"
 do
-    echo "Testing emotion: $emotion"
+    echo "Testing closed yes/no emotion: $emotion"
     python models/run_llavamed.py \
       --dataset "SLAKE" \
       --split "test" \
       --emotion "$emotion" \
-      --output_file "output/LLaVA-Med/llavamed_${emotion}.jsonl"
+      --yes_no \
+      --output_file "output/LLaVA-Med/closed/llavamed_${emotion}.jsonl"
 done

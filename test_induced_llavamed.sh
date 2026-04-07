@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-mkdir -p output/LLaVA-Med
+mkdir -p output/LLaVA-Med/closed
 
 for emotion in \
   "main_patient_neutral" \
@@ -14,10 +14,11 @@ for emotion in \
   "main_clinician_anger_frustration" \
   "main_clinician_sadness_distress"
 do
-    echo "Testing induced emotion: $emotion"
+    echo "Testing closed yes/no induced emotion: $emotion"
     python models/run_llavamed_induced.py \
       --dataset "SLAKE" \
       --split "test" \
       --emotion "$emotion" \
-      --output_file "output/LLaVA-Med/llavamed_induced_${emotion}.jsonl"
+      --yes_no \
+      --output_file "output/LLaVA-Med/closed/llavamed_induced_${emotion}.jsonl"
 done
