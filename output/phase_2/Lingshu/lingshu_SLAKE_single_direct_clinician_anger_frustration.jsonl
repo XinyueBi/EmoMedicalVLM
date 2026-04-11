@@ -1,0 +1,1061 @@
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung, Spinal Cord", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Lung Cancer", "model_answer": "Lung Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "model_answer": "Left Lung, Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image,lung,liver or heart?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Lung Cancer", "model_answer": "Lung Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "model_answer": "Left Lung, Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image,lung,liver or heart?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Lung Cancer", "model_answer": "Lung Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "model_answer": "Right Lung, Upper Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there any abnormality in the spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the liver look normal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Left shoulder.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Pneumonia", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Left Lung, Lower Right", "model_answer": "Left Lung, Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Atelectasis, Mass", "model_answer": "Nodule.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Right Lung", "model_answer": "Both Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Nodule", "model_answer": "Nodule.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "model_answer": "Left Lung, Lower Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Nodule", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "model_answer": "Right Lung, Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Atelectasis", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Right Lung, Lower Left", "model_answer": "Right Lung, Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Pneumonia", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Left Lung, Right", "model_answer": "Left Lung, Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys are there in this image?", "answer": "1", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the liver look normal ?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the kidney look abnormal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the spleen look abnormal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Pneumothorax", "model_answer": "Pneumothorax.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Right Lung, Left", "model_answer": "Right Lung, Lower Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ is abnormal, heart or lung?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the liver healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, kidney or liver?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ located in the lower right corner of the body in this image?", "answer": "Left Kidney", "model_answer": "Left Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the left side of this image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "4", "model_answer": "4.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Top", "model_answer": "Top.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the liver healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image, lung,heart or liver?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the rightmost organ in this image?", "answer": "Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the left side of this image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image, spleen,lung, or liver?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the left side of this image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the lower right corner of the body in this image?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Liver Cancer", "model_answer": "Liver Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Left and top", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, kidney or spleen?", "answer": "Liver", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the left side of this image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the rightmost organ in this image?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the top of the body in this image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Left and top", "model_answer": "Upper Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "2", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, liver or spleen?", "answer": "Spleen", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the lower right corner of this image?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the top of the body in this image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys are there in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Not seen", "model_answer": "Not seen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the left side of this image?", "answer": "Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Liver Cancer", "model_answer": "Liver Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Upper Left", "model_answer": "Upper Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, liver or heart?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the top of the body in this image?", "answer": "Heart and Liver", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What are the white points in the black part of the body?", "answer": "Pulmonary bronchus", "model_answer": "Pulmonary Bronchus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "model_answer": "Not seen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Liver Cancer", "model_answer": "Liver Cancer.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, kidney or spleen?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of the kidney in the picture?", "answer": "Irregular", "model_answer": "Irregular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "model_answer": "Symmetrical to the bone marrow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does this image look normal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver?", "answer": "Left", "model_answer": "Upper Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What are the white spots in the black part of the lower part of body?", "answer": "Pulmonary bronchus", "model_answer": "Pulmonary bronchus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Small Bowel", "model_answer": "Small Bowel.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "model_answer": "Left Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Large Bowel", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the top of the body in this image?", "answer": "Small Bowel", "model_answer": "Small Bowel.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the kidney?", "answer": "Symmetrical to the bone marrow", "model_answer": "Symmetrical to the bone marrow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ on the top of the body in this image?", "answer": "Stomach", "model_answer": "Stomach.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black hole in the upper right corner?", "answer": "Large Bowel", "model_answer": "Stomach.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain kidney?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, liver or spleen?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the rightmost organ in this image?", "answer": "Large Bowel", "model_answer": "Large Bowel.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black part on the left of the image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse  Plane", "model_answer": "Transverse  Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black hole in the upper right corner?", "answer": "Large Bowel", "model_answer": "Stomach.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of medical image is this?", "answer": "X-Ray", "model_answer": "X-ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image,left or right?", "answer": "Right", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What part of the lung is the pneumothorax located in?", "answer": "Upper Right Lung", "model_answer": "Right lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs appear in pairs?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is/Are there abnormalities in the patient's right lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumothorax be observed on the lower left lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the upper right of lung bring to the patient?", "answer": "Chest pain, dyspnea", "model_answer": "Chest tightness, shortness of breath, difficulty breathing, dry cough.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What imaging modality was used?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the human body is the organ located in the image?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Lower Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the atelectasis in this image?", "answer": "Lower Right Lung", "model_answer": "Lower Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the chest?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the right of lung?", "answer": "Atelectasis", "model_answer": "Pleural Effusion.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is/Are there abnormalities in the patient's right lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can atelectasis be observed on the upper right lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing lungs in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the lower right of the lung in the picture?", "answer": "Bronchial obstruction", "model_answer": "Inflammation, bacterial infection, etc.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image,left or right?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the mass in this image?", "answer": "Lower Left Lung", "model_answer": "Lower left lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the chest?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the pelvic cavity?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the left of lung?", "answer": "Pulmonary Mass", "model_answer": "Pulmonary Mass.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can mass be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "A Little", "model_answer": "A Little.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the lower left lobe of lung in this image?", "answer": "Keep healthy", "model_answer": "Keep healthy.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of medical image is this?", "answer": "X-Ray", "model_answer": "X-ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Lower Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the atelectasis in this image?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the neck?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the patient have any abnormalities?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can atelectasis be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "A Little", "model_answer": "A Little.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the disease located on the left of lung in this image?", "answer": "Physical therapy, surgical treatment", "model_answer": "Medical treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image,left or right?", "answer": "Right", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pneumonia in the lung?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the right of lung?", "answer": "Pneumonia", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumonia be observed on the right lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing lungs in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What can the organ with black color in this image be used for?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the disease located on the right of lung in this image?", "answer": "Medical therapy, supportive therapy", "model_answer": "Medical treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is shown in this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which plane is the image scanned, transverse plane or coronal plane?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the cardiomegaly in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs appear in pairs?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Cardiomegaly", "model_answer": "Cardiomegaly.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can cardiomegaly be observed on the heart in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the heart in this image bring to the patient?", "answer": "Chest tightness, arrhythmia", "model_answer": "Chest tightness, arrhythmia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of medical image is this?", "answer": "X-Ray", "model_answer": "X-ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this sagittal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which lobe is abnormal in this image?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pulmonary infiltration in this image?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Pulmonary Infiltration", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pulmonary infiltration be observed on the upper right lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the lower left lobe of lung in this image?", "answer": "Live healthy, enhance physical fitness", "model_answer": "Keep healthy.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the respiratory system in this image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What imaging modality was used?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which plane is the image scanned, transverse plane or coronal plane?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Lower Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pulmonary nodule located in this image?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung normal appearing?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can nodule be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the disease located on the lower left of lung in this image?", "answer": "Medical treatment, surgical treatment", "model_answer": "Medical treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What imaging modality was used?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which plane is the image scanned, transverse plane or coronal plane?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the human body is the organ located in the image?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located in this picture?", "answer": "Upper Right Lung", "model_answer": "Right Lung, Upper Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the nodule in this image?", "answer": "Upper Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the patient have any abnormalities?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can nodule be observed on the upper right lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the upper right lung bring to the patient?", "answer": "Chest tightness, fatigue", "model_answer": "Chest tightness, shortness of breath, difficulty breathing, dry cough.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI scan?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal plane?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the chest?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Upper Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What part of the lung is the pneumothorax located in?", "answer": "Upper Left Lung", "model_answer": "Left lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung normal appearing?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is/Are there abnormalities in the patient's left lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumothorax be observed on the lower right lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "A Little", "model_answer": "A Little.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the disease located on the upper left of lung in this image?", "answer": "Medical therapy, supportive therapy", "model_answer": "Medical treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What scanning plane does this image belong to?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Lower Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pneumothorax in this image?", "answer": "Lower Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumothorax be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the center organ in this picture?", "answer": "Promote blood flow", "model_answer": "Promote blood flow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the lower left of the lung in the picture?", "answer": "Chest injury, lung disease, bullae", "model_answer": "Chest injury, lung disease, bullae.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the circulatory system?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the human body is the organ located in the image?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the nodule located in this image?", "answer": "Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can nodule be observed on the lower right lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the left lobe of lung in this image?", "answer": "Quit smoking, enhance physical fitness", "model_answer": "Keep healthy.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What scanning plane does this image belong to?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image,left or right?", "answer": "Left", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What part of the lung is the pneumonia located in?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs appear in pairs?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumonia be observed on the upper right lung in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the center organ in this picture?", "answer": "Promote blood flow", "model_answer": "Promote blood flow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the disease located on the lower left of lung in this image?", "answer": "Medical therapy, supportive therapy", "model_answer": "Medical treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of medical image is this?", "answer": "X-Ray", "model_answer": "X-ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal plane?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the abnormality in this image?", "answer": "Upper Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What part of the lung is the pneumonia located in?", "answer": "Upper Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the neck?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there abnormalities in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumonia be observed on the upper right lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the upper right lobe of lung in this image?", "answer": "Pay attention to prevent cold and keep warm, enhance physical fitness", "model_answer": "Keep healthy.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the respiratory system in this image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How was this image taken?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image?", "answer": "Right", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pneumonia in the lung?", "answer": "Lower Right Lung", "model_answer": "Lower Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the chest?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the right of lung?", "answer": "Pneumonia", "model_answer": "Pleural Effusion.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung normal appearing?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can pneumonia be observed on the lower right lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the right lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing lungs in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the center organ in this picture?", "answer": "Promote blood flow", "model_answer": "Promote blood flow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the lower right lobe of lung in this image?", "answer": "Pay attention to prevent cold and keep warm, enhance physical fitness", "model_answer": "Keep healthy.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via CT?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which side of lung is abnormal in this image?", "answer": "Left", "model_answer": "Both.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What part of the lung is the infiltration located in?", "answer": "Lower Left Lung", "model_answer": "Left lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs appear in pairs?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is/Are there abnormalities in the patient's left lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the lower left of lung?", "answer": "Pulmonary Infiltration", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can infiltration be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing lungs in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What can the organ with black color in this image be used for?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the lower left of lung bring to the patient?", "answer": "Chest pain, cough, expectoration", "model_answer": "Chest tightness, shortness of breath, difficulty breathing, dry cough.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via X-Ray?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of chest is abnormal in this image?", "answer": "Lower Left Lung", "model_answer": "Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the effusion located?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the head?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the patient have any abnormalities?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can effusion be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs are shown in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What can the organ with black color in this image be used for?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the lower left of the lung in the picture?", "answer": "Inflammation, malignant tumor, trauma, etc", "model_answer": "Inflammation, malignant tumor, trauma, etc.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the circulatory system in this image?", "answer": "Heart", "model_answer": "Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "X-Ray", "model_answer": "X-Ray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What scanning plane does this image belong to?", "answer": "Coronal Plane", "model_answer": "Coronal Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the chest?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the heart in this image?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the pleural effusion?", "answer": "Lower Left Lung", "model_answer": "Lower Left Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the pelvic cavity?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Pleural Effusion", "model_answer": "Pneumonia.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Can effusion be observed on the lower left lung in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left lung show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the main organ in this picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the lower left of lung bring to the patient?", "answer": "Chest tightness, dyspnea, chest pain", "model_answer": "Chest tightness, shortness of breath, difficulty breathing, dry cough.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the respiratory system in this image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which type of modality is shown about this image, MRI, CT or X-Ray?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this sagittal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain stem in this image?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs appear in pairs?", "answer": "Temporal Lobe", "model_answer": "Temporal Lobe, Eyes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the temporal lobe appear in this image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the right temporal lobe in the picture?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many ears are shown in this image?", "answer": "0", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "model_answer": "Much.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the nervous system?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there some organs controlling heartbeat and breathing in this image?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the respiratory system?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a CT?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this sagittal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain stem in this image?", "answer": "Center", "model_answer": "Center.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the ears exist in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain bladder?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the ears in the picture?", "answer": "White", "model_answer": "White.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many temporal lobes in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the tissue on the center of this image?", "answer": "Control heartbeat and breathing", "model_answer": "Control heartbeat and breathing.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of storing urine?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the digestive system?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is shown in this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the tooth in this image?", "answer": "Top", "model_answer": "Top.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain mandible?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the parotid appear in the image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the brain stem show in the picture?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many mandibles in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the top of this image?", "answer": "Cutting, chewing, maintaining facial contour and assisting pronunciation", "model_answer": "Cutting, chewing, maintaining facial contour and assisting pronunciation.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to nervous system?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can digest food?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the circulatory system?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is shown in this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Neck", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there an esophagus in this image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the trachea exist in this picture?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of larynx in this image?", "answer": "Oval", "model_answer": "Irregular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Larynx", "model_answer": "Larynx.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can deliver food?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of gas delivery?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a CT?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What scanning plane does this image belong to?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Neck", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the esophagus in this image?", "answer": "Under the trachea", "model_answer": "Under the trachea.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Neck", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the ears exist in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there small bowel in this image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color do the trachea show in the picture?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of trachea about this patient?", "answer": "Irregular", "model_answer": "Circular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What role does the black hollow tissue play in the human body?", "answer": "Gas delivery", "model_answer": "Ventilation, pronunciation.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Trachea", "model_answer": "Trachea.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the nervous system?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could be used for detoxicating?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI scan?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Neck", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is trachea in this image?", "answer": "Black Hollow", "model_answer": "Black Hollow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Neck", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spinal cord?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are/Is there kidneys in the picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of trachea about this patient?", "answer": "Irregular", "model_answer": "Circular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What role does the black hollow tissue play in the human body?", "answer": "Gas delivery", "model_answer": "Gas delivery.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the digestive system?", "answer": "Esophagus", "model_answer": "Esophagus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of discharging waste?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the nervous system?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a CT scan?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which hemisphere is abnormal,left or right?", "answer": "Right", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Edema, Brain Enhancing Tumor", "model_answer": "Brain Edema.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "2", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the right lobe of brain in this picture?", "answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors", "model_answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How was this image taken?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI image with T1 weighted?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain non-enhancing tumor?", "answer": "Upper Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the color of abnormality in this image?", "answer": "White", "model_answer": "White.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the upper left lobe of brain in this picture?", "answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors", "model_answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this sagittal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which hemisphere is abnormal,left or right?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the left of brain?", "answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the tumor enhancing?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "3", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "model_answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is shown in this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI image with T1 weighted?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the chest?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain edema?", "answer": "Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "1", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the most severe disease in this image?", "answer": "Pharmacotherapy, rehabilitation", "model_answer": "Medical treatment, supportive treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is shown in this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a T1 weighted or T2 weighted MRI image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where are the abnormalities in this image?", "answer": "Upper Left Lobe", "model_answer": "Upper Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there evidence of a brain edema?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the abnormality hyperdense or hypodense?", "answer": "Hyperdense", "model_answer": "Hyperdense.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to treat the most severe disease in this image?", "answer": "Pharmacotherapy, rehabilitation", "model_answer": "Medical treatment, supportive treatment, surgical treatment.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of medical image is this?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a T1 weighted or T2 weighted MRI image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Head", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain tumor?", "answer": "Upper Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image normal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the upper left lobe of brain in this image?", "answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma", "model_answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What imaging modality was used?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Head", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain tumor?", "answer": "Upper Right Lobe", "model_answer": "Upper Right Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the neck?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the upper right of brain?", "answer": "Brain Edema, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the abnormality hyperdense or hypodense?", "answer": "Hyperdense", "model_answer": "Hyperdense.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the upper right lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "model_answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How was this image taken?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a T1 weighted or T2 weighted MRI image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain tumor?", "answer": "Upper Right Lobe", "model_answer": "Upper Right Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the upper right lobe of brain in this image?", "answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma", "model_answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via MRI?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What scanning plane does this image belong to?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which lobe is abnormal,left or right?", "answer": "Right", "model_answer": "Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Edema, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brian?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Edema", "model_answer": "Brain Edema.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the brain look abnormal?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Lower Right", "model_answer": "Lower Right Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a X-Ray?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Upper Right Lobe", "model_answer": "Right Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is/Are there abnormalities in the patient's left brain lobe?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a CT scan?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this sagittal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the pelvic cavity?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where are the abnormalities in this image?", "answer": "Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain enhancing tumor hyperdense or hypodense?", "answer": "Hyperdense", "model_answer": "Hyperdense.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "model_answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via CT?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the human body is the organ located in the image?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain tumor located?", "answer": "Lower Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the chest?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the patient have brain tumor?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main cause of the disease on the left lobe of brain in this picture?", "answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors", "model_answer": "Brain embryonic tissue dysplasia, genetic factors, chemical factors.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How was this image taken?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What type of MRI is shown in this image?", "answer": "T1", "model_answer": "T1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain tumor?", "answer": "Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What density is the brain enhancing tumor ?", "answer": "Hyperdense", "model_answer": "Hyperdense.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?", "answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure", "model_answer": "Visual impairment, vomiting, tinnitus, increased intracranial pressure.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a CT?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI image with T2 weighted?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Lower Left Lobe", "model_answer": "Lower Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the lower left of brain?", "answer": "Brain Edema, Brain Enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the color of brain enhancing tumor in this image?", "answer": "White", "model_answer": "White.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "2", "model_answer": "3.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How to prevent the occurrence of the disease on the lower left lobe of brain in this image?", "answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma", "model_answer": "Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI image with T2 weighted?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the scanning plane of this image?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain non-enhancing tumor?", "answer": "Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the head?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the left of brain?", "answer": "Brain Edema, Brain Non-enhancing Tumor", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this an MRI scan?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do the organs in the image exist in the neck?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the brain edema located?", "answer": "Left Lobe", "model_answer": "Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain normal appearing?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brian?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the brain look abnormal?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this image taken via MRI?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which kind of weighting is this image generated with, t1 or t2?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where are the abnormalities in this image?", "answer": "Lower Left Lobe", "model_answer": "Lower Right Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Head", "model_answer": "Head.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What disease is/are shown on the left of brain?", "answer": "Brain Edema", "model_answer": "Brain Edema.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kinds of abnormalities are there in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the kidney in this image?", "answer": "Symmetrical to the bottom spine", "model_answer": "Symmetrical to the bone marrow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the left of the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the stomach appear in the image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spleen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the spleen in the picture?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image,liver or right kidney?", "answer": "Right Kidney", "model_answer": "Right Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "6", "model_answer": "6.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "model_answer": "Much.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the lymphatic system in this image?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the urinary system in this image?", "answer": "Kidney", "model_answer": "Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of discharging waste?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the respiratory system?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the colon in this image?", "answer": "Upper Right", "model_answer": "Upper Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the trachea exist in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain bladder?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image,liver or lung?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs have existed in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the organ on the upper left of this image?", "answer": "Biotransformation, detoxification", "model_answer": "Biotransformation, detoxification.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the respiratory system?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could be used for secreting enzymes?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the digestive system?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the larynx appear in the image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung exist in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image,colon or liver?", "answer": "Colon", "model_answer": "Colon.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organs appearing in pairs in the picture?", "answer": "Breathe", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the digestive system in this image?", "answer": "Stomach, Colon", "model_answer": "Stomach, Colon.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the urinary system?", "answer": "Kidney", "model_answer": "Bladder.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of detoxicating?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of adjusting water and osmotic pressure balance?", "answer": "Yes", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the gray part on the right of the image?", "answer": "Small Bowel", "model_answer": "Small Bowel.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain colon?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brain stem?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image,kidney or small bowel?", "answer": "Kidney", "model_answer": "Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the organ on the top of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "model_answer": "Absorb nutrients, secrete enzymes, digest food.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there some organs controlling heartbeat and breathing in this image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of digesting food?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the kidney in this image?", "answer": "Symmetrical to the bottom spine", "model_answer": "Symmetrical to the bone marrow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ is the black part on the upper left of the image?", "answer": "Small Bowel", "model_answer": "Colon.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the rectum appear in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the left kidney show in the picture?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image, liver or right kidney?", "answer": "Liver", "model_answer": "Right Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "5", "model_answer": "5.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of spinal cord in this image?", "answer": "Circular", "model_answer": "Circular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the organ on the top of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "model_answer": "Absorb nutrients, secrete enzymes, digest food.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the nervous system in this image?", "answer": "Spinal cord", "model_answer": "Spinal cord.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of digesting food?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could be used for secreting enzymes?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the liver in this image?", "answer": "Left", "model_answer": "Left.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain colon?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the humerus head exist in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color does the duodenum show in the picture?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image, spleen or kidney?", "answer": "Spleen", "model_answer": "Kidney.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs have existed in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of spleen in the picture?", "answer": "Oval", "model_answer": "Oval.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the center of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "model_answer": "Absorb nutrients, secrete enzymes, digest food.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the nervous system in this image?", "answer": "Spinal cord", "model_answer": "Spinal cord.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can adjust water and osmotic pressure balance?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there any organs used for breathing in this image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a transverse section?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the stomach in this image?", "answer": "Upper Right", "model_answer": "Upper Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organ system is imaged?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain eyes?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there femoral head in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image,liver or stomach?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many kidneys have existed in this image?", "answer": "0", "model_answer": "0.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the shape of spinal cord in this image?", "answer": "Circular", "model_answer": "Circular.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the rightmost organ in this picture?", "answer": "Improve the body's immunity", "model_answer": "Breathe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the lymphatic system?", "answer": "Spleen", "model_answer": "Spleen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could receive sound?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of gas delivery?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the esophagus in this image?", "answer": "Center", "model_answer": "Under the aortic arch.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the esophagus exist in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the stomach appear in the image?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the spleen in this image?", "answer": "Gray", "model_answer": "Gray.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image, spleen, heart or liver?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many existing heart in this image?", "answer": "1", "model_answer": "1.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "model_answer": "Much.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can digest food?", "answer": "No", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brian?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "Brain Tumor, Brain Edema", "model_answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain healthy?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is/are the abnormality located?", "answer": "Lower Left", "model_answer": "Lower Left Lobe.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Abdomen", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the heart in this image,left,top or upper left?", "answer": "Top", "model_answer": "Top.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the abdomen?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain stomach?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image, esophagus or liver?", "answer": "Esophagus", "model_answer": "Esophagus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many lungs have existed in this image?", "answer": "2", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How much damage will be caused to the body taking such an image?", "answer": "Much", "model_answer": "Much.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the digestive system?", "answer": "Esophagus", "model_answer": "Esophagus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of gas delivery?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could promote blood flow?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "In what plane is this image scanned?", "answer": "Transverse Plane", "model_answer": "Transverse Plane.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the leftmost organ in this image?", "answer": "Right Lung", "model_answer": "Right Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain spinal cord?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the rectum appear in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What color is the lung in this image?", "answer": "Black", "model_answer": "Black.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image,heart or esophagus?", "answer": "Esophagus", "model_answer": "Esophagus.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many organs are there in this image?", "answer": "4", "model_answer": "4.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the top of this image?", "answer": "Promote blood flow", "model_answer": "Promote blood flow.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ that could receive sound?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of sensing light?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the image represent in the body?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is the rectum existing in this image?", "answer": "Bottom", "model_answer": "Bottom.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain bladder?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the parotid appear in the image?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image, bladder or rectum?", "answer": "Rectum", "model_answer": "Rectum.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How many femoral heads are shown in this image?", "answer": "0", "model_answer": "2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the bottom of this picture?", "answer": "Store feces, excrete feces", "model_answer": "Store feces, excrete feces.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the digestive system?", "answer": "Rectum", "model_answer": "Rectum.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of discharging waste?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of excreting feces?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal section?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part do the organs in this image locate from the aspect of the whole body?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is rectum in this image?", "answer": "Bottom", "model_answer": "Bottom.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the organ system visualized?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain rectum?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain bladder?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Bladder", "model_answer": "Bladder.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the gray organ on the center of this picture?", "answer": "Store urine", "model_answer": "Store urine.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the digestive system in this image?", "answer": "Rectum", "model_answer": "Rectum.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of excreting feces?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain the organ which has the effect of detoxicating?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a study of the pelvic cavity?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain colon?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ in the picture belong to the urinary system?", "answer": "Bladder", "model_answer": "Bladder.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can deliver food?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "How was this image taken?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where does the picture show?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the rectum exist in this picture?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is bigger in this image, small bowel or colon?", "answer": "Small Bowel", "model_answer": "Small Bowel.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the bottom of this image?", "answer": "Digest food, absorb water, excrete body waste", "model_answer": "Store feces, excrete feces.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the urinary system?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is pictured?", "answer": "Pelvic Cavity", "model_answer": "Pelvic Cavity.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there colon in the image?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is smaller in this image, colon or small bowel?", "answer": "Colon", "model_answer": "Colon.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the function of the organ on the top of this image?", "answer": "Absorb nutrients, secrete enzymes, digest food", "model_answer": "Absorb nutrients, secrete enzymes, digest food.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Do any of the organs in the picture belong to the digestive system?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is this a coronal plane?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the human body is the organ located in the image?", "answer": "Pelvic Cavity", "model_answer": "Abdomen.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Where is colon in this image?", "answer": "Upper Left", "model_answer": "Upper Right.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What organ system is primarily present in this image?", "answer": "Pelvic Cavity", "model_answer": "Gastrointestinal system.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is there spinal cord in this picture?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the effect of the organ on the left of this picture?", "answer": "Digest food, absorb water, excrete body waste", "model_answer": "Absorb nutrients, secrete enzymes, digest food.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which organs/organ is part of the digestive system in this image?", "answer": "Colon, Small Bowel", "model_answer": "Small Bowel, Colon.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Are there organs in the picture that can promote blood flow?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brian?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "MRI", "model_answer": "MRI.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the mr weighting in this image?", "answer": "T2", "model_answer": "T2.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Brain", "model_answer": "Brain.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain brian?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the brain healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What diseases are included in the picture?", "answer": "None", "model_answer": "None.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image,lung,liver or heart?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the lung look healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image,lung,liver or heart?", "answer": "Liver", "model_answer": "Liver.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Chest.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Lung, Heart", "model_answer": "Lung, Heart.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the largest organ in the picture?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Is the lung healthy?", "answer": "Yes", "model_answer": "Yes.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which is the biggest in this image,lung,liver or heart?", "answer": "Lung", "model_answer": "Lung.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What modality is used to take this image?", "answer": "CT", "model_answer": "CT.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Which part of the body does this image belong to?", "answer": "Chest", "model_answer": "Neck.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "What is the main organ in the image?", "answer": "Spinal Cord", "model_answer": "Trachea.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain liver?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain lung?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}
+{"question": "Does the picture contain heart?", "answer": "No", "model_answer": "No.", "dataset": "SLAKE", "conv_mode": "single"}

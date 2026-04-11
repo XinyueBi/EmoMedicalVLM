@@ -1,6 +1,16 @@
+# Python
 __pycache__/
-/test.ipynb
-/SLAKE/
-/vqa-rad/
-/Hulu-Med/
-/LLaVA-Med/
+*.pyc
+
+# HuggingFace / cache
+.cache/
+*.bin
+*.pt
+
+# logs
+logs/
+*.log# checkpoints
+*.ckpt
+
+# system
+.DS_Store

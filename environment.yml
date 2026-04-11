@@ -1,0 +1,29 @@
+name: lingshu
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core
+  - pip
+
+  # Data
+  - pandas>=2.0
+  - pyarrow>=14.0
+
+  # Image
+  - pillow>=10.0
+
+  # Utils
+  - tqdm>=4.65
+  - numpy>=1.24
+
+  # ⚠️ torch 建议用 pip（和 vllm 更兼容）
+  - pip:
+      - torch>=2.1.0
+      - transformers>=4.40.0
+      - vllm>=0.4.0
