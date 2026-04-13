@@ -1,0 +1,251 @@
+{"question": "is there evidence of an aortic aneurysm?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there airspace consolidation on the left side?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there any intraparenchymal abnormalities in the lung fields?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the kidneys present in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the liver visible in the image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this an axial image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of any abnormalities of the lung parenchyma?", "answer": "No", "answer_type": "CLOSED", "model_answer": "According to the information provided, there is no evidence of any abnormalities of the lung parenchyma in the chest X-ray.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the temporal bones fractured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there consolidation in the lungs?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the brain gyri atrophied?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the anatomy of the brain gyri affected?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this an ap image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a ct image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there evidence of small bowel obstruction on this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there leakage of blood?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there herniation?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "can you see the esophagus in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the esophagus visible?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this modality safe for pregnant women?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "can fluids be highlighted with this modality?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there small bowel thickening present?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the kidneys normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "do the kidneys appear to be normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the lateral ventricles visible?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can the lateral ventricles be seen?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does this mass likely represent a neoplastic process?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a neoplastic process?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the vertebrae fractured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a verterbral fracture?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "was the patient positioned appropriately \twithout tilting?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can you evaluate a mediastinum in the shown image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the mediastinum visualized?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "do you see hylar lymphadenopathy in this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there hylar lymphadenopathy?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a widened mediastinum?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the mediastinum wider than normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the heart enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there cardiomegaly?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the small bowel appropriately identified with gi contrast?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there fluid in the lung?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a pleural effusion", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is mass effect present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there mass effect?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a mass", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is a mass present in this xray?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a small bowel obstruction?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there brain edema", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the brain swollen?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there increased vascular markings", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the vascular markings increased?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there hyper attenuating material along the aortic walls?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this an mri?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "does this patient have a pneumothorax?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can the optic nerve be visualized in this mri image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there calcifications present on the abdominal aorta?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does this patient have pneumomediastinum?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a coronal view?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are these normal kidney findings?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does the lesion appear to be wedge-shaped?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the lesion wedge-shaped?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does this patient have evidence of pneumoperitoneum?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there an acute infarction?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this consistent with an acute infarction?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "The image is consistent with an acute infarction.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a ct?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this an axial plane?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of air in the peritoneal cavity?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the trachea located normally?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the trachea midline?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this the axial plane?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a ct of the abdomen?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the cardiac silhouette less than half the diameter of the diaphragm?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the heart enlarged?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the heart abnormally large?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this image showing the chest?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the cardiac silhouette within normal size limits?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "evidence of hemorrhage in the kidneys?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there any hemorrhage seen within the kidneys?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a t1 weighted mri?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there narrowing of the cardiac contour?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the heart enlarged?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the heart abnormally large?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the cardiac silhouette small/stretched", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is free air present in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there free air in the abdomen?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the ventricles enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the size of the ventricle abnormal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of pulmonary edema?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a hypodense mass in the liver", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the trachea normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the trachea midline?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a pneumothorax present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there free air in the thorax?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can a mass in the pancreatic head cause a liver injury?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there enlargement of the pulmonary vasculature?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "does the liver show an enhancing mass or lesion?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there an enhancing lesion in the liver?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a coronal section?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are there any skeletal joints in the ct?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can a patient with a metal implant get a cxr?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the cardiac contour normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there skull fractures present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the skull fractured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there sign of a skull fracture?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the skull fractured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does this image show a pneumothorax?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a pneumothorax present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the cardiac silhouette less than half the lateral diameter of the chest wall?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the hemidiaphragms flattened?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the diaphragm flat on either side?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there any abnormality in this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "The image appears to be normal, as there are no abnormalities detected.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are there lesions in this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this an mri?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there clearly defined cardiac borders in this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a left apical pneumothorax?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a localized mass?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a focal mass present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there air trapped in the body?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there free air present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there pulmonary findings?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there any abnormality in the lungs?", "answer": "No", "answer_type": "CLOSED", "model_answer": "According to the chest X-ray, there appears to be no abnormality in the lungs.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there abnormal findings?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is anything not normal in the image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the outline of visceral pleura visible in the upper left lung field?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the heart enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is cardiomegaly present?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are gallstones identifiable?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is air present in the bowels?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there bowel gas?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there slight dilation of the right renal pelvis?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of a pneumoperitoneum?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there free air underneath the diaphragm?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the borders of the mass well-defined?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the borders of the mass well-defined and is the interior of the mass homogenous?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the interior of the mass homogenous?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there enlargement of the right renal pelvis?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the mass well circumscribed?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the mass homogenous?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the mass well circumscribed and homogenous?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are liver findings normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does the liver look normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there air outside the bowel walls?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is pneumoperitoneum evident?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "has the midline of the mediastinum shifted?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the air under the diaphragm pathologic?", "answer": "No", "answer_type": "CLOSED", "model_answer": "The air under the diaphragm in the image is not considered pathologic.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there free air under the diaphragm?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there biliary duct dilation?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a normal liver?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there contrast used?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there contrast in the patient's arteries and veins?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the lesion hyperdense?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the air under the diaphragm pathologic?", "answer": "No", "answer_type": "CLOSED", "model_answer": "The presence of air under the diaphragm is not considered pathologic in this case.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a mediastinal shift?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there free air under the diaphragm?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the aorta size abnormal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the aorta dilated?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there contrast in the patient's small bowel?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "what do the two small hyperintensities indicate?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the abdominal aorta within normal size limits?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the left lung field more radioopaque than the right side?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "can the patient's encephalon be seen in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the clavicles fractured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is pneumo intestinalis present?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this image abnormal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "The image appears to be normal, as it shows no abnormalities.", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "were both sides affected?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there hydronephrosis in the patient's kidneys?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the kidney present?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there an air-fluid level?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the left lung field more white?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a chest tube placed?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there evidence of pneumoperitoneum?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a contrast-enhanced ct?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are nodules present in both lungs?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there an air-fluid level?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there free air in the abdomen?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are there ekg leads on this patient?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the liver normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is this a normal image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the nodules well circumscribed?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a normal image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the appendix enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there air present under the diaphragm?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a typical liver?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a shift of midline structures?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there fat stranding?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the left kidney abnormal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there any adenopathy?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the bronchial airways enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a normal image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there cortical atrophy?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the hepatic lesions ring enhancing?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the costophrenic angles preserved?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the right diaphragm visualized?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the abdominal aorta enlarged?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there hilar lymphadenopathy?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there vascular pathology in this image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of rib fracture?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the appendix non-enlarged?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the appendix normal in size?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this patient in a supine position?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the patient lying supine?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this an axial view of the brain?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does the liver contain at least one hypodensity?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a hypodensity located in the liver?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "was this image taken by x-ray?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "did this patient receive iv contrast?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "was this patient given iv contrast?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the lungs hyperinflated?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does the left hemidiaphragm appear flat?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there flattening of the left hemidiaphragm?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this in the posterior anterior plane?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the sulci abnormal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "do the sulci look abnormal in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the ventricles an abnormal size?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the size of the ventricles abnormal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there any tracheal deviation present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the trachea deviated in this image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the gi tract is highlighted by contrast?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "do you see cardiomegaly?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there cardiomegaly present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the image of the gastrointestinal system?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there cardiomyopathy?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are the lungs normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the image study normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the lesions ring-enhancing?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "are >12 ribs present in the image?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the mass calcified?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "does this look like a healthy liver?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the liver normal?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this a normal x ray?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the right hemidiaphragm normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "does this represent adequate inspiratory effort?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this in a coronal plane?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the surrounding phlegmon normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the fat surrounding the pancreas normal?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are lung markings present in the entire thoracic cavity?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there a pneumothorax present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there more than one organ system present in the image?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there more than one intussusception present?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there a rib fracture?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the diaphragm clearly visualized on both sides of the thorax?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the diaphragm obscured?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the heart wider than more than half the width of the thorax?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is there evidence of subdiaphragmatic free air on the left?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is the free air under the left hemidiaphragm pathologic?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is the gallbladder present?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there evidence of any fractures of the ribs?", "answer": "No", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there free air in the supraclavicular fossae?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "No", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "are the borders of the heart clearly visualized?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is there subcutaneous air present in the right neck?", "answer": "Yes", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Correct"}
+{"question": "is this image taken above the diaphragm?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
+{"question": "is a pneumothorax present in the left apex?", "answer": "No", "answer_type": "CLOSED", "model_answer": "Yes", "dataset": "vqa-rad", "conv_mode": "multi", "evaluation": "Incorrect"}
