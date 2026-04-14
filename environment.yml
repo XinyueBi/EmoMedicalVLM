@@ -1,4 +1,5 @@
 name: lingshu
+
 channels:
   - pytorch
   - nvidia
@@ -7,23 +8,30 @@ channels:
 
 dependencies:
   - python=3.10
-
-  # Core
   - pip
 
-  # Data
+  # Core scientific stack
+  - numpy>=1.24
   - pandas>=2.0
   - pyarrow>=14.0
-
-  # Image
   - pillow>=10.0
-
-  # Utils
   - tqdm>=4.65
-  - numpy>=1.24
 
-  # ⚠️ torch 建议用 pip（和 vllm 更兼容）
+  # PyTorch via conda
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+
+  # Helpful build/runtime deps
+  - packaging
+  - setuptools
+  - wheel
+
+  # Python packages via pip
   - pip:
-      - torch>=2.1.0
       - transformers>=4.40.0
+      - accelerate
+      - sentencepiece
+      - safetensors
       - vllm>=0.4.0
