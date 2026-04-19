@@ -12,13 +12,14 @@ logs/
 *.log# checkpoints
 *.ckpt
 
+# datasets
+vindr_test/
+physionet.org/
+SLAKE/
+vqa_rad/
+
+# local for testing
+test*.ipynb
+
 # system
 .DS_Store
-
-#Datasets
-/SLAKE/
-/vqa-rad/
-
-#Models
-/LLaVA-Med/
-/Hulu-Med/

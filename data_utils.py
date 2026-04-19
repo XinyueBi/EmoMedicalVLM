@@ -6,6 +6,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 WORKSPACE_DIR = BASE_DIR
 
+
 SLAKE_DIR = WORKSPACE_DIR / "SLAKE"
 VQARAD_DIR = WORKSPACE_DIR / "vqa-rad"
 
@@ -82,6 +83,26 @@ def get_dataset(dataset_name, split, yes_no=False):
                 "image": row["image"],
                 "question": row["question"],
                 "answer": answer,
+            })
+
+        return samples
+    
+    elif dataset_name_lower == 'vindr_test':
+        csv_path = "vindr_test/processed/annotations_test_processed.csv"
+
+        df = pd.read_csv(csv_path)
+        df = df[df['class_name'] != 'No finding']
+
+        samples = []
+        for _, row in df.iterrows():
+            x_min = round(float(row["x_min"])/row["width"], 2)
+            x_max = round(float(row["x_max"])/row["width"], 2)
+            y_min = round(float(row["y_min"])/row["height"], 2)
+            y_max = round(float(row["y_max"])/row["height"], 2)
+            samples.append({
+                "image": row["processed_path"],
+                "class_name": row["class_name"],
+                "bbox": [x_min, y_min, x_max, y_max],
             })
 
         return samples
