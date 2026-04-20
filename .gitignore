@@ -17,9 +17,15 @@ vindr_test/
 physionet.org/
 SLAKE/
 vqa_rad/
+vqa-rad/
+
 
 # local for testing
 test*.ipynb
 
 # system
 .DS_Store
+
+# models
+Hulu-Med/
+LLaVA-Med/
