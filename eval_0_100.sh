@@ -2,8 +2,8 @@
 set -e
 
 # ===== configuration =====
-OUTPUT_DIR="/workspace/EmoMedicalVLM/output/phase_2/MedGemma"
-FILE_PREFIX="medgemma_"
+OUTPUT_DIR="/workspace/EmoMedicalVLM/output/phase_2/Lingshu"
+FILE_PREFIX="lingshu_"
 BATCH_SIZE=4
 MODEL_NAME="Qwen/Qwen2.5-7B-Instruct"
 
