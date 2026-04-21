@@ -1,4 +1,4 @@
-from transformers import AutoProcessor, AutoModelForImageTextToText
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from PIL import Image
 import argparse
 import requests
@@ -17,7 +17,7 @@ from emotion_prompts import SYSTEM_PROMPT, USER_PROMPTS
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("--output_file", type=str, default="output/phase_2/agentic_filtering/medgemma.jsonl", help="The file to save the model's predictions to.")
+parser.add_argument("--output_file", type=str, default="output/phase_2/agentic_filtering/qwen3_4b_instruct.jsonl", help="The file to save the model's predictions to.")
 
 args = parser.parse_args()
 
@@ -37,17 +37,18 @@ conv_modes = ["single", "multi"]
 output_dir = Path(args.output_file).parent
 os.makedirs(output_dir, exist_ok=True)
 
-model_id = "google/medgemma-1.5-4b-it"
+model_name = "Qwen/Qwen3-4B-Instruct-2507"
 
-model = AutoModelForImageTextToText.from_pretrained(
-    model_id,
-    torch_dtype=torch.bfloat16,
-    device_map="auto",
+# load the tokenizer and the model
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    torch_dtype="auto",
+    device_map="auto"
 )
-processor = AutoProcessor.from_pretrained(model_id)
-processor.tokenizer.pad_token = processor.tokenizer.eos_token
-model.config.pad_token_id = processor.tokenizer.pad_token_id
-model.generation_config.pad_token_id = processor.tokenizer.pad_token_id
+tokenizer.pad_token = tokenizer.eos_token
+model.config.pad_token_id = tokenizer.pad_token_id
+model.generation_config.pad_token_id = tokenizer.pad_token_id
 
 # Load dataset
 samples = get_dataset(dataset_name, dataset_split, False)[:50] # Use a subset is enough
@@ -107,8 +108,7 @@ def get_conversation_prompt(emotion, conv_mode, question):
 agentic_processing_message = [
     {
         "role": "system",
-        "content": [
-            {"type": "text", "text": """You are an extraction module.
+        "content": """You are an extraction module.
 
             Your task:
             Read the full conversation history and extract ONLY the relevant question or request to answer. 
@@ -121,17 +121,14 @@ agentic_processing_message = [
             - Do not add extra text.
 
             If there is no clear question or request, return exactly:
-            NO_QUESTION"""}
-        ],
+            NO_QUESTION"""
     },
     {
         "role": "user",
-        "content": [
-            {"type": "text", "text": """Conversation history:
+        "content": """Conversation history:
             {conversation_history}
 
-            Extract:"""}
-            ],
+            Extract:"""
     }
     
 ]
@@ -150,20 +147,25 @@ with open(output_file, 'w') as f:
                 conversation_history = json.dumps(messages, ensure_ascii=False)
 
                 extraction_messages = deepcopy(agentic_processing_message)
-                extraction_messages[1]["content"][0]["text"] = extraction_messages[1]["content"][0]["text"].format(
+                extraction_messages[1]["content"] = extraction_messages[1]["content"].format(
                     conversation_history=conversation_history
                 )
                 
-                inputs = processor.apply_chat_template(
-                    extraction_messages, add_generation_prompt=True, tokenize=True,
-                    return_dict=True, return_tensors="pt"
-                ).to(model.device, dtype=torch.bfloat16)
-                input_len = inputs["input_ids"].shape[-1]
-                with torch.inference_mode():
-                    generation = model.generate(**inputs, max_new_tokens=2000, do_sample=False)
-                    generation = generation[0][input_len:]
-                
-                decoded = processor.decode(generation, skip_special_tokens=True).strip()
+                text = tokenizer.apply_chat_template(
+                    extraction_messages,
+                    tokenize=False,
+                    add_generation_prompt=True,
+                )
+                model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
+
+                # conduct text completion
+                generated_ids = model.generate(
+                    **model_inputs,
+                    max_new_tokens=1024
+                )
+                output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist() 
+
+                decoded = tokenizer.decode(output_ids, skip_special_tokens=True)
                 
                 correct = decoded == question
                 write_dict = {**sample, "emotion": emotion, "conv_mode": conv_mode, "model_answer": decoded, "correct": correct}

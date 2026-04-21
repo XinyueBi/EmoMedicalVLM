@@ -1,4 +1,5 @@
-from transformers import AutoProcessor, AutoModelForImageTextToText
+from transformers import AutoProcessor, Gemma3ForConditionalGeneration
+
 from PIL import Image
 import argparse
 import requests
@@ -17,7 +18,7 @@ from emotion_prompts import SYSTEM_PROMPT, USER_PROMPTS
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument("--output_file", type=str, default="output/phase_2/agentic_filtering/medgemma.jsonl", help="The file to save the model's predictions to.")
+parser.add_argument("--output_file", type=str, default="output/phase_2/agentic_filtering/gemma3_4b_it.jsonl", help="The file to save the model's predictions to.")
 
 args = parser.parse_args()
 
@@ -37,13 +38,12 @@ conv_modes = ["single", "multi"]
 output_dir = Path(args.output_file).parent
 os.makedirs(output_dir, exist_ok=True)
 
-model_id = "google/medgemma-1.5-4b-it"
+model_id = "google/gemma-3-4b-it"
 
-model = AutoModelForImageTextToText.from_pretrained(
+model = Gemma3ForConditionalGeneration.from_pretrained(
     model_id,
-    torch_dtype=torch.bfloat16,
     device_map="auto",
-)
+).eval()
 processor = AutoProcessor.from_pretrained(model_id)
 processor.tokenizer.pad_token = processor.tokenizer.eos_token
 model.config.pad_token_id = processor.tokenizer.pad_token_id

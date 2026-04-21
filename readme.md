@@ -37,3 +37,7 @@ For a single run with default prompt, run
 ```python models/run_medgemma.py``` 
 
 or completed run with all emotions with ```bash test_all_emotions.sh```
+
+## Warning
+
+Due to `transformers` and its models being version-sensitive, all dependencies in `requirements.txt` are for reference only.
